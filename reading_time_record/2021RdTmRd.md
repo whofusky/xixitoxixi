@@ -15,13 +15,13 @@
 
 #### April
 
->Total reading this month: ***169 minutes***
+>Total reading this month: ***200 minutes***
 
 |Month|Time|R Time  ||Time|R Time  | |Time|R Time  | |Time|R Time  |
 |-----|----|------|--|----|------|--|----|------  |--|----|------  |
 |Apr  | 03 |8  min  || 04 |37 min  || 05 |28 min  || 06 |21 min  |
 |     | 07 |18 min  || 08 |27 min  || 09 |        || 10 |20 min  | 
-|     | 11 |        || 12 |        || 13 |        || 14 |        | 
+|     | 11 |31 min  || 12 |        || 13 |        || 14 |        | 
 |     | 15 |        || 16 |        || 17 |        || 18 |        | 
 |     | 19 |        || 20 |        || 21 |        || 22 |        | 
 |     | 23 |        || 24 |        || 25 |        || 26 |        | 
