@@ -17,8 +17,9 @@
 
 >Total reading this month: ***169 minutes***
 
-|Month|Time|R Time  ||Time|R Time  ||Time|R Time  ||Time|R Time  |
-|-----|----|------  ||----|------  ||----|------  ||----|------  |
+
+|Month|Time|R Time  ||Time|R Time  | |Time|R Time  | |Time|R Time  |
+|-----|----|------|--|----|------|--|----|------  |--|----|------  |
 |Apr  | 03 |8  min  || 04 |37 min  || 05 |28 min  || 06 |21 min  |
 |     | 07 |18 min  || 08 |27 min  || 09 |        || 10 |20 min  | 
 |     | 11 |        || 12 |        || 13 |        || 14 |        | 
