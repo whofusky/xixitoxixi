@@ -13,7 +13,7 @@
 
 </br>
 
-|Month|Time|R Time  ||Time|R Time  ||Time|R Time  ||Time|R Time  |
+|Month|Day |R Time  ||Day |R Time  ||Day |R Time  ||Day |R Time  |
 |-----|----|------|--|----|------|--|----|------  |--|----|------  |
 |Jan  | 01 |        || 02 |        || 03 |        || 04 |        |
 |     | 05 |        || 06 |        || 07 |        || 08 |        |
@@ -27,7 +27,7 @@
 
 </br>
 
-|Month|Time|R Time  ||Time|R Time  ||Time|R Time  ||Time|R Time  |
+|Month|Day |R Time  ||Day |R Time  ||Day |R Time  ||Day |R Time  |
 |-----|----|------|--|----|------|--|----|------  |--|----|------  |
 |Feb  | 01 |        || 02 |        || 03 |        || 04 |        |
 |     | 05 |        || 06 |        || 07 |        || 08 |        |
@@ -41,7 +41,7 @@
 
 </br>
 
-|Month|Time|R Time  ||Time|R Time  ||Time|R Time  ||Time|R Time  |
+|Month|Day |R Time  ||Day |R Time  ||Day |R Time  ||Day |R Time  |
 |-----|----|------|--|----|------|--|----|------  |--|----|------  |
 |Mar  | 01 |        || 02 |        || 03 |        || 04 |        |
 |     | 05 |        || 06 |        || 07 |        || 08 |        |
@@ -53,7 +53,7 @@
 |     | 29 |        || 30 |        || 31 |        ||    |        | 
 >Total reading this month: ***0 minutes***
 
-|Month|Time|R Time  ||Time|R Time  ||Time|R Time  ||Time|R Time  |
+|Month|Day |R Time  ||Day |R Time  ||Day |R Time  ||Day |R Time  |
 |-----|----|------|--|----|------|--|----|------  |--|----|------  |
 |Apr  | 03 |        || 04 |        || 05 |        || 06 |        |
 |     | 07 |        || 08 |        || 09 |        || 10 |        | 
@@ -66,7 +66,7 @@
 
 </br>
 
-|Month|Time|R Time  ||Time|R Time  ||Time|R Time  ||Time|R Time  |
+|Month|Day |R Time  ||Day |R Time  ||Day |R Time  ||Day |R Time  |
 |-----|----|------|--|----|------|--|----|------  |--|----|------  |
 |May  | 01 |        || 02 |        || 03 |        || 04 |        |
 |     | 05 |        || 06 |        || 07 |        || 08 |        |
@@ -80,7 +80,7 @@
 
 </br>
 
-|Month|Time|R Time  ||Time|R Time  ||Time|R Time  ||Time|R Time  |
+|Month|Day |R Time  ||Day |R Time  ||Day |R Time  ||Day |R Time  |
 |-----|----|------|--|----|------|--|----|------  |--|----|------  |
 |Jun  | 01 |        || 02 |        || 03 |        || 04 |        |
 |     | 05 |        || 06 |        || 07 |        || 08 |        |
@@ -94,7 +94,7 @@
 
 </br>
 
-|Month|Time|R Time  ||Time|R Time  ||Time|R Time  ||Time|R Time  |
+|Month|Day |R Time  ||Day |R Time  ||Day |R Time  ||Day |R Time  |
 |-----|----|------|--|----|------|--|----|------  |--|----|------  |
 |Jul  | 01 |        || 02 |        || 03 |        || 04 |        |
 |     | 05 |        || 06 |        || 07 |        || 08 |        |
@@ -108,7 +108,7 @@
 
 </br>
 
-|Month|Time|R Time  ||Time|R Time  ||Time|R Time  ||Time|R Time  |
+|Month|Day |R Time  ||Day |R Time  ||Day |R Time  ||Day |R Time  |
 |-----|----|------|--|----|------|--|----|------  |--|----|------  |
 |Aug  | 01 |        || 02 |        || 03 |        || 04 |        |
 |     | 05 |        || 06 |        || 07 |        || 08 |        |
@@ -122,7 +122,7 @@
 
 </br>
 
-|Month|Time|R Time  ||Time|R Time  ||Time|R Time  ||Time|R Time  |
+|Month|Day |R Time  ||Day |R Time  ||Day |R Time  ||Day |R Time  |
 |-----|----|------|--|----|------|--|----|------  |--|----|------  |
 |Sept | 01 |        || 02 |        || 03 |        || 04 |        |
 |     | 05 |        || 06 |        || 07 |        || 08 |        |
@@ -136,7 +136,7 @@
 
 </br>
 
-|Month|Time|R Time  ||Time|R Time  ||Time|R Time  ||Time|R Time  |
+|Month|Day |R Time  ||Day |R Time  ||Day |R Time  ||Day |R Time  |
 |-----|----|------|--|----|------|--|----|------  |--|----|------  |
 |Oct  | 01 |        || 02 |        || 03 |        || 04 |        |
 |     | 05 |        || 06 |        || 07 |        || 08 |        |
@@ -150,7 +150,7 @@
 
 </br>
 
-|Month|Time|R Time  ||Time|R Time  ||Time|R Time  ||Time|R Time  |
+|Month|Day |R Time  ||Day |R Time  ||Day |R Time  ||Day |R Time  |
 |-----|----|------|--|----|------|--|----|------  |--|----|------  |
 |Nov  | 01 |        || 02 |        || 03 |        || 04 |        |
 |     | 05 |        || 06 |        || 07 |        || 08 |        |
@@ -164,7 +164,7 @@
 
 </br>
 
-|Month|Time|R Time  ||Time|R Time  ||Time|R Time  ||Time|R Time  |
+|Month|Day |R Time  ||Day |R Time  ||Day |R Time  ||Day |R Time  |
 |-----|----|------|--|----|------|--|----|------  |--|----|------  |
 |Dec  | 01 |        || 02 |        || 03 |        || 04 |        |
 |     | 05 |        || 06 |        || 07 |        || 08 |        |

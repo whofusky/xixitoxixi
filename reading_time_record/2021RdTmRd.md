@@ -17,7 +17,7 @@
 
 >Total reading this month: ***426 minutes***
 
-|Month|Time|R Time  ||Time|R Time  | |Time|R Time  | |Time|R Time  |
+|Month|Day |R Time  ||Day |R Time  | |Day |R Time  | |Day |R Time  |
 |-----|----|------|--|----|------|--|----|------  |--|----|------  |
 |Apr  | 03 |8  min  || 04 |37 min  || 05 |28 min  || 06 |21 min  |
 |     | 07 |18 min  || 08 |27 min  || 09 |        || 10 |20 min  | 
@@ -33,7 +33,7 @@
 #### May
 >Total reading this month: ***0 minutes***
 
-|Month|Time|R Time  ||Time|R Time  ||Time|R Time  ||Time|R Time  |
+|Month|Day |R Time  ||Day |R Time  ||Day |R Time  ||Day |R Time  |
 |-----|----|------|--|----|------|--|----|------  |--|----|------  |
 |May  | 01 |        || 02 |        || 03 |        || 04 |        |
 |     | 05 |        || 06 |        || 07 |        || 08 |        |
@@ -49,7 +49,7 @@
 #### June
 >Total reading this month: ***0 minutes***
 
-|Month|Time|R Time  ||Time|R Time  ||Time|R Time  ||Time|R Time  |
+|Month|Day |R Time  ||Day |R Time  ||Day |R Time  ||Day |R Time  |
 |-----|----|------|--|----|------|--|----|------  |--|----|------  |
 |Jun  | 01 |        || 02 |        || 03 |        || 04 |        |
 |     | 05 |        || 06 |        || 07 |        || 08 |        |
@@ -65,7 +65,7 @@
 #### July
 >Total reading this month: ***0 minutes***
 
-|Month|Time|R Time  ||Time|R Time  ||Time|R Time  ||Time|R Time  |
+|Month|Day |R Time  ||Day |R Time  ||Day |R Time  ||Day |R Time  |
 |-----|----|------|--|----|------|--|----|------  |--|----|------  |
 |Jul  | 01 |        || 02 |        || 03 |        || 04 |        |
 |     | 05 |        || 06 |        || 07 |        || 08 |        |
@@ -81,7 +81,7 @@
 #### August
 >Total reading this month: ***0 minutes***
 
-|Month|Time|R Time  ||Time|R Time  ||Time|R Time  ||Time|R Time  |
+|Month|Day |R Time  ||Day |R Time  ||Day |R Time  ||Day |R Time  |
 |-----|----|------|--|----|------|--|----|------  |--|----|------  |
 |Aug  | 01 |        || 02 |        || 03 |        || 04 |        |
 |     | 05 |        || 06 |        || 07 |        || 08 |        |
@@ -97,7 +97,7 @@
 #### September
 >Total reading this month: ***0 minutes***
 
-|Month|Time|R Time  ||Time|R Time  ||Time|R Time  ||Time|R Time  |
+|Month|Day |R Time  ||Day |R Time  ||Day |R Time  ||Day |R Time  |
 |-----|----|------|--|----|------|--|----|------  |--|----|------  |
 |Sept | 01 |        || 02 |        || 03 |        || 04 |        |
 |     | 05 |        || 06 |        || 07 |        || 08 |        |
@@ -113,7 +113,7 @@
 #### October
 >Total reading this month: ***0 minutes***
 
-|Month|Time|R Time  ||Time|R Time  ||Time|R Time  ||Time|R Time  |
+|Month|Day |R Time  ||Day |R Time  ||Day |R Time  ||Day |R Time  |
 |-----|----|------|--|----|------|--|----|------  |--|----|------  |
 |Oct  | 01 |        || 02 |        || 03 |        || 04 |        |
 |     | 05 |        || 06 |        || 07 |        || 08 |        |
@@ -129,7 +129,7 @@
 #### November
 >Total reading this month: ***0 minutes***
 
-|Month|Time|R Time  ||Time|R Time  ||Time|R Time  ||Time|R Time  |
+|Month|Day |R Time  ||Day |R Time  ||Day |R Time  ||Day |R Time  |
 |-----|----|------|--|----|------|--|----|------  |--|----|------  |
 |Nov  | 01 |        || 02 |        || 03 |        || 04 |        |
 |     | 05 |        || 06 |        || 07 |        || 08 |        |
@@ -145,7 +145,7 @@
 #### December
 >Total reading this month: ***0 minutes***
 
-|Month|Time|R Time  ||Time|R Time  ||Time|R Time  ||Time|R Time  |
+|Month|Day |R Time  ||Day |R Time  ||Day |R Time  ||Day |R Time  |
 |-----|----|------|--|----|------|--|----|------  |--|----|------  |
 |Dec  | 01 |        || 02 |        || 03 |        || 04 |        |
 |     | 05 |        || 06 |        || 07 |        || 08 |        |
